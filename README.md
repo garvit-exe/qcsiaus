@@ -30,6 +30,10 @@ This is a simple QR code scanner application for iOS built using Swift. The app 
     - If it’s a barcode containing a URL, the app will open the URL in the default browser.
 4. If the scanner is not available on the device, an error message will be printed in the console.
 
+## Demo
+
+![](screenshot.jpg)
+
 ## Contributing
 
 If you'd like to contribute to the project, feel free to fork the repository, create a separate branch, make your changes, and submit a pull request.
